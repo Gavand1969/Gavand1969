@@ -1,12 +1,28 @@
-- 👋 Hi, I’m @Gavand1969
-- 👀 I’m interested in ...Skking, Hunting, Traveling, Outdoors
-- 🌱 I’m currently learning ... Complex Linear data stes 
-- 💞️ I’m looking to collaborate on ... something to get my name out ther 
-- 📫 How to reach me ... gavanderson13@gmail.com
-- 😄 Pronouns: ...He/Him 
-- ⚡ Fun fact: ...Lets live Life
+### Hi, I'm Gavin 
 
-<!---
-Gavand1969/Gavand1969 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data scientist, operations analyst, and U.S. Army veteran based in Wilmington, NC and Owensboro, KY.
+
+I build forecasting tools, ML models, and BI dashboards that turn messy
+operational data into decisions.
+
+**Currently working on**
+- An autonomous algorithmic trading system — ML ensemble
+  (LightGBM + XGBoost + LSTM), 90+ technical indicators, risk-managed
+  multi-strategy portfolio, Alpaca API integration
+- Python + Django web tooling and data pipelines
+
+**Tech I work with**
+Python · SQL · R · Pandas · scikit-learn · LightGBM · XGBoost · TensorFlow ·
+Power BI · Tableau · Django · Git · Jupyter
+
+**Background**
+- M.S. Data Science, Texas Tech University (2025, GPA 3.83)
+- B.S. Industrial Technology Management, PennWest California (2023, Cum Laude)
+- B.S. Physics, Liberty University (in progress, 2027)
+- U.S. Army 2013–2022 — Human Intelligence Specialist (35M) and
+  Infantryman (11B); active duty and reserves; secret clearance
+
+**Open to**
+Data science, Analytics, Operations, Manufacturing and ML engineering roles.
+
+Reach me at gavanderson13@gmail.com.

@@ -18,7 +18,6 @@ Power BI · Tableau · Django · Git · Jupyter
 **Background**
 - M.S. Data Science, Texas Tech University (2025, GPA 3.83)
 - B.S. Industrial Technology Management, PennWest California (2023, Cum Laude)
-- B.S. Physics, Liberty University (in progress, 2027)
 - U.S. Army 2013–2022 — Human Intelligence Specialist (35M) and
   Infantryman (11B); active duty and reserves; secret clearance
 

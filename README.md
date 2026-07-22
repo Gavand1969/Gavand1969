@@ -1,50 +1,66 @@
+/Users/gavinanderson/.zprofile:11: no such file or directory: /opt/homebrew/bin/brew
 <h1 align="center">Gavin Anderson</h1>
 
 <p align="center">
-  <b>Data Scientist · Operations &amp; Supply-Chain Analytics · U.S. Army Veteran</b><br/>
-  M.S. Data Science (Texas Tech, 2025 · GPA 3.83) — based in Owensboro, KY
+  <strong>Operations &amp; Supply Chain Analytics · Data Science · Simulation</strong><br/>
+  M.S. Data Science · 10 years in automotive operations · U.S. Army veteran
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gavin-anderson-0a3a52158"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gavin%20Anderson-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="mailto:gavanderson13@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gavanderson13%40gmail.com-D14836?logo=gmail&logoColor=white"></a>
-  <img alt="Open to work" src="https://img.shields.io/badge/Open%20to-Analytics%20%2F%20Ops%20%2F%20ML%20roles-2ea44f">
+  <img alt="Open to work" src="https://img.shields.io/badge/Open%20to-Operations%20%26%20Supply%20Chain%20Analytics-2ea44f">
 </p>
 
----
+## What I do
 
-### About
+I turn operational data into decisions: demand forecasts, supplier scorecards,
+quality dashboards, process-control tools, and simulation models. My background
+combines a quantitative M.S. with a decade of hands-on automotive parts,
+supplier-quality, and KPI reporting experience—including analytics that
+contributed an estimated **$200K+ in annual savings**.
 
-I build **forecasting tools, ML models, and operational dashboards** that turn messy real-world data into decisions. I spent 10 years owning supplier quality, parts analytics, and KPI reporting at an automotive operation while completing a quantitative M.S. — so my code is built for people who have to use it, not just submit it.
+I build reproducible Python projects with clear business questions, documented
+methods, tests, and outputs a manager can use.
 
-- **M.S. Data Science**, Texas Tech University (Rawls College of Business) — May 2025, GPA 3.83
-- **B.S. Science & Technology, Multi-Disciplinary**, PennWest California — May 2023, Cum Laude
-- **U.S. Army veteran** — Infantryman (11B), Team Leader (USAR); Honorable Discharge, August 2022
+## Selected work
 
-### What I'm working on
-
-| Project | What it does | Stack |
+| Project | Business question | Evidence |
 |---|---|---|
-| [**sim2sim**](https://github.com/Gavand1969/sim2sim) | Operations-research platform — 9 queuing models, 6 inventory models, LP, Monte Carlo, AI-explained results. Built to replace $5K/yr Arena licenses. | Python · SciPy · FastAPI · Claude API |
-| [**quant-trading-engine**](https://github.com/Gavand1969/quant-trading-engine) | Autonomous trading system — stacked ML ensemble (LightGBM + XGBoost + LSTM), 90+ features, institutional risk management, Alpaca integration. | Python · LightGBM · XGBoost · TensorFlow · Alpaca |
-| [**sentinel**](https://github.com/Gavand1969/sentinel) | Personal endpoint security monitor — behavioral detection of spyware, C2 beacons, persistence implants. Live web dashboard. | Python · psutil · FastAPI · WebSockets |
-| [**Used-Cars-**](https://github.com/Gavand1969/Used-Cars-) | Stacked-ensemble price-prediction pipeline (LightGBM + XGBoost + CatBoost meta-learner). R² ≈ 0.93. | Python · scikit-learn · LightGBM · XGBoost · CatBoost |
+| [**Demand Forecasting Toolkit**](https://github.com/Gavand1969/demand-forecasting-toolkit) | Which forecasting method best balances service and inventory cost across 50 automotive SKUs? | Walk-forward backtest; LightGBM achieved **11.85% WAPE** against seasonal and SARIMA benchmarks. |
+| [**Supplier Quality Analytics**](https://github.com/Gavand1969/supplier-quality-analytics) | Which suppliers and defect categories drive cost of poor quality? | Converts **4,800 inspection lots** into scorecards, defect trends, disposition analysis, and a COPQ Pareto. |
+| [**COPQ Dashboard**](https://github.com/Gavand1969/copq-dashboard) | How can plant and procurement teams explore quality cost without rebuilding reports? | Five-page Streamlit app with global filters, supplier drilldowns, Pareto analysis, and CSV export. |
+| [**Process Control & SPC Toolkit**](https://github.com/Gavand1969/process-control-spc) | Is a manufacturing process stable and capable—and where did it shift? | X-bar/R charts, Cp/Cpk/Pp/Ppk, eight Western Electric rules, and **50 tests**. |
+| [**Hospital ED Throughput Simulation**](https://github.com/Gavand1969/hospital-throughput-sim) | Which staffing intervention improves door-to-doctor time and throughput? | SimPy discrete-event model comparing three scenarios across repeated stochastic runs; **15 tests**. |
+| [**Sim2Sim**](https://github.com/Gavand1969/sim2sim) | Can common operations-research decisions be made in one browser-based tool? | Queuing, inventory, Monte Carlo, LP, and CPM/PERT models behind FastAPI with **57 tests**. |
 
-### Stack
+## Core strengths
 
-**Languages** Python · R · SQL · C/C++ · TypeScript
-**Data / ML** pandas · NumPy · scikit-learn · LightGBM · XGBoost · CatBoost · TensorFlow / Keras · OpenCV · statsmodels
-**BI / Viz** Power BI · Tableau · Plotly · Matplotlib · Streamlit
-**Infra** Git · Docker · FastAPI · Django · PostgreSQL · Supabase · Digital Ocean
+- **Operations analytics:** forecasting, inventory, supplier quality, COPQ,
+  KPI design, Pareto analysis, and process capability
+- **Decision science:** discrete-event simulation, queuing theory, Monte Carlo,
+  optimization, time-series modeling, and experiment comparison
+- **Technical delivery:** Python, SQL, R, pandas, NumPy, scikit-learn,
+  LightGBM, statsmodels, SimPy, FastAPI, Streamlit, Plotly, Power BI, and Git
+- **Communication:** turning model outputs into scorecards, dashboards,
+  recommendations, and clear tradeoffs for nontechnical stakeholders
 
-### Background highlights
+## Background
 
-- 10 years at **Grillo's Automotive** — Parts &amp; Materials Manager, then Operations &amp; Parts Analyst. Built KPI dashboards, supplier scorecards, and a defect-rate tracking system that contributed an estimated **$200K+ in annual savings**.
-- **Army (Nov 2013 – Aug 2022)** — Infantryman; deployed to Jordan 2016-17 (KASOTC, JTC, Tower 22) in support of Operation Inherent Resolve; NTC rotation 2019 with a National Guard Stryker Brigade Combat Team; Team Leader (USAR).
-- **Quantitative coursework** — Statistics, Simulation & Optimization, Time Series Analysis, Big Data Strategy, Business Intelligence.
+- **M.S. Data Science**, Texas Tech University, 2025 — GPA 3.83
+- **10 years in automotive operations** — parts and materials management,
+  supplier quality, inventory, KPI reporting, and continuous improvement
+- **U.S. Army veteran** — Infantryman and Team Leader; honorable discharge
 
-### Currently open to
+## What I am looking for
 
-Analytics · Data Science · Operations · Manufacturing · Supply Chain · ML Engineering roles — Owensboro KY, remote-US, or DC area.
+Operations Analyst · Supply Chain Analyst · Manufacturing/Quality Analytics ·
+Data Scientist · Decision Science roles
 
-📫 **gavanderson13@gmail.com** &nbsp;•&nbsp; [LinkedIn](https://www.linkedin.com/in/gavin-anderson-0a3a52158)
+Based in Owensboro, Kentucky; open to remote U.S. and Washington, D.C.-area
+opportunities.
+
+<p align="center">
+  <a href="mailto:gavanderson13@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/gavin-anderson-0a3a52158">LinkedIn</a>
+</p>

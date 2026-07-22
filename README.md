@@ -26,6 +26,7 @@ methods, tests, and outputs a manager can use.
 
 | Project | Business question | Evidence |
 |---|---|---|
+| [**AutoValuePredictor**](projects/autovaluepredictor.md) | How can used-car market data become a trustworthy consumer valuation and paid research product? | Private-source React/Express/Python platform with **1.1M+ listings**, streaming exports, Stripe entitlement hardening, and **25 passing local tests**. |
 | [**Demand Forecasting Toolkit**](https://github.com/Gavand1969/demand-forecasting-toolkit) | Which forecasting method best balances service and inventory cost across 50 automotive SKUs? | Walk-forward backtest; LightGBM achieved **11.85% WAPE** against seasonal and SARIMA benchmarks. |
 | [**Supplier Quality Analytics**](https://github.com/Gavand1969/supplier-quality-analytics) | Which suppliers and defect categories drive cost of poor quality? | Converts **4,800 inspection lots** into scorecards, defect trends, disposition analysis, and a COPQ Pareto. |
 | [**COPQ Dashboard**](https://github.com/Gavand1969/copq-dashboard) | How can plant and procurement teams explore quality cost without rebuilding reports? | Five-page Streamlit app with global filters, supplier drilldowns, Pareto analysis, and CSV export. |

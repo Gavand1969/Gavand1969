@@ -1,4 +1,3 @@
-/Users/gavinanderson/.zprofile:11: no such file or directory: /opt/homebrew/bin/brew
 <h1 align="center">Gavin Anderson</h1>
 
 <p align="center">
